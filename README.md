@@ -7,7 +7,7 @@ This repository contains my personal notes from various undergraduate Computer S
 Fall 2023:
 - Computer Organization and Architecture
 - Algorithm Analysis and Design
-- Software Engineering
+- CS Writing Intensive 
 - Database Design
 - Linear Algebra
 
